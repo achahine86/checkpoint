@@ -1,0 +1,131 @@
+*{  box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;}
+
+body{ 
+    font-size: 14px;
+    margin: 0 auto;}
+
+p{
+    font-size: 22px;
+    line-height: 1.5;}
+
+h1 {font-size: 30px}
+h2 {font-size: 38px}
+h3 {font-size: 22px}
+h4 {font-size: 14px}
+
+.container{
+    padding: 60px 40px;}
+.container-horizontal{
+    padding: 0 40px;}
+
+.menu{
+    background: #16889B;
+    color: white;
+    width: 100%;}
+.menu ul{
+    align-items: center;
+    display: flex;
+    list-style-type: none;}
+.menu li{
+    margin: 8px;}
+    
+.topo{
+    font-size: 22px;
+    height: 80px;
+    width: 100%;}
+.topo ul{
+    align-items: center;
+    display: flex;
+    list-style-type: none;}
+.topo li{
+    margin: 8px;}
+.topo-titulo{
+    color: #FF0000;}
+
+.inicio{
+    background: url(../illustrator/imagens/architect.png);
+    background-size: cover;
+    color: white;
+    font-size: 22px;
+    height: auto;
+    width: 100%;}
+.inicio ul{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;}
+.inicio li{
+    align-items: center;
+    display: flex;
+    margin: 16px 0}
+.inicio li img{
+    margin-right: 16px;}     
+.funcionamento{
+    color: #16889B;}
+.funcionamento-content{
+    display: flex;}
+
+.historia{
+    background: #1DB9DD;
+    color: white;}
+.historia-content{
+    display: flex;}
+
+.planos{
+    color: #16889B;}
+.planos-itens{
+    color: white;
+    display: inline-flex;
+
+    margin: 12px}
+.planos-itens h3{
+    font-size: 38px;
+    margin-bottom: 16px;
+    text-align: center;}
+.plano-gratuito{
+    background: #1DB9DD;
+    height: 484px;
+    width: 398px;}
+.plano-personalizado{
+    background: #1DB9DD;
+    height: 484px;
+    width: 398px;}
+.plano-ilimitado{
+    background: #1DB9DD;
+    height: 484px;
+    width: 398px;} 
+
+.rodape{
+    color: #00393F;}
+.rodape ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;}
+.rodape li{
+    margin: 8px;}
+
+@media only screen and (max-width: 420px) {
+    .video, .menu-contato-cadastro, .topo-navegacao {
+        display: none;
+    }
+    .container{
+        padding: 60px 40px;
+    }
+    .container-horizontal{
+        padding: 0 40px;
+    }
+}
+
+@media only screen and (max-width: 758px) {
+    .video, .menu-contato-cadastro, .topo-navegacao {
+        display: none;
+    }
+    .container{
+        padding: 60px 40px;
+    }
+    .container-horizontal{
+        padding: 0 40px;
+    }
+}

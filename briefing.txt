@@ -1,0 +1,44 @@
+* O usuário free só pode estar em uma equipe
+* Empresa locada no (endereço do Senai)
+* Precisam de um site de divulgação
+* O principal objetivo do site é divulgação
+* Atendimento em território nacional
+* O software não registra o horário de saída, apenas o horário de entrada
+* Um site para cada produto
+* Ao clicar em "sobre" deve encaminhar para
+outro site. Acessos em horário comercial (manhã e tarde). Seção de galeria de fotos
+* Timeline com imagem e texto. Divulgação em 
+pinterest, facebook e instagram. Público alvo: empresas de TI com funcionários em home office,
+arquitetos, design.
+As vendas já são feitas por telefone
+* Inserir chatbot, endereço da empresa. Campo para formulário "fale conosco"
+* Futuro campo de depoimentos.
+Futuramente, área de cadastro (para coleta de informações) e comentários mediados por 
+aprovação. Suporte por chat
+* A identidade visual básica é feita em azul. Não existe logo e identidade visual 
+desenvolvidos. Está em desenvolvimento por
+terceiros
+* Necessitam de domínio
+* Estão hospedados no servidor Azure
+* Site estático, sem inserção periódica de conteúdo
+* Sites inspirações: MarvelApp, Google Keep
+* Versão mobile
+* Existe vídeo explicando o funcionamento do software. Reservar seção para isso
+* Vão utilizar um e-mail já existente @carfel
+* FAQ
+* Seção separada para a história (resumo na página principal e link para a história completa) 
+A HISTÓRIA É IMPORTANTE, IMAGEM BONITA,
+LEIA MAIS
+* Chat em todas as telas
+* LEIAUTE DE TIMELINE (esquerda-direita)
+* O site será um grande banner de propaganda. Para aquisição, devem entrar em contato.
+* SEÇÕES: PRINCIPAL / HISTÓRIA / AJUDA / PLANOS (free / cinco inscritos 199,90 / full 299,90) detalhar as vantagens de cada plano.
+Destaque para o plano intermediário. No segundo plano o suporte é em horário comercial, para o plano full o suporte será 24h.
+/ FORMULÁRIO
+
+1 Divulgação do produto
+2 Mostrar o diferencial: a facilidade que o produto oferece
+3 Inserir central de atendimento ao cliente
+4 Mostrar o ganho financeiro que a empresa terá ao utilizar o software através do registro de entrada
+5 FAQ
+6 
